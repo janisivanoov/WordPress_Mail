@@ -1376,7 +1376,7 @@ Multisite only. Sent when an Administrator requests to delete their site from th
 
 ## License: GPLv2
 
-Copyright 2015 - 2023 John Blackbourn
+Copyright 2024 janisivanoov
 
 This documentation is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
